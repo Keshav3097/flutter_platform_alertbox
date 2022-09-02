@@ -70,11 +70,10 @@ import 'package:flutter_platform_alertbox/flutter_platform_alertbox.dart';
 Android                   |  IOS
 :-------------------------:|:-------------------------:
 <img src="alert_android.gif" width="250" height="500">  |  <img src="alert_ios.gif" width="250" height="500">
+<img src="info_android.png" width="250" height="500">
+<img src="confirm_android.png" width="250" height="500">
+<img src="delete_android.png" width="250" height="500">
 
-![image](info_android.png)
-![image](confirm_android.png)
-![image](delete_android.png)
-
-![image](info_ios.png)
-![image](confirm_ios.png)
-![image](delete_ios.png)
+<img src="info_ios.png" width="250" height="500">
+<img src="confirm_ios.png" width="250" height="500">
+<img src="delete_ios.png" width="250" height="500">
