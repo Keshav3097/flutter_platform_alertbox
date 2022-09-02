@@ -75,12 +75,12 @@ Android                   |  IOS
 ## Android Screenshot
 
 Information                |  Confirmation              | Delete 
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="info_android.png" width="250" height="500">  |  <img src="confirm_android.png" width="250" height="500"> |  <img src="delete_android.png" width="250" height="500">
 
 ## iOS Screenshot
 
 Information                |  Confirmation              | Delete 
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="info_ios.png" width="250" height="500">  |  <img src="confirm_ios.png" width="250" height="500"> |  <img src="delete_ios.png" width="250" height="500">
 
