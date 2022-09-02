@@ -69,7 +69,7 @@ import 'package:flutter_platform_alertbox/flutter_platform_alertbox.dart';
 
 Android                   |  IOS
 :-------------------------:|:-------------------------:
-![android](alert_android.gif)  |  ![ios](alert_ios.gif
+![android](alert_android.gif)  |  ![ios](alert_ios.gif)
 
 
 ## Android Screenshot
