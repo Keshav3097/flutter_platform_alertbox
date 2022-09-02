@@ -69,18 +69,18 @@ import 'package:flutter_platform_alertbox/flutter_platform_alertbox.dart';
 
 Android                   |  IOS
 :-------------------------:|:-------------------------:
-<img src="alert_android.gif" width="250" height="500">  |  <img src="alert_ios.gif" width="250" height="500">
+![android](alert_android.gif)  |  ![ios](alert_ios.gif
 
 
 ## Android Screenshot
 
 Information                |  Confirmation              | Delete 
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="info_android.png" width="250" height="500">  |  <img src="confirm_android.png" width="250" height="500"> |  <img src="delete_android.png" width="250" height="500">
+![information](info_android.png)  |  ![confirm](confirm_android.png) | ![delete](delete_android.png)
 
 ## iOS Screenshot
 
 Information                |  Confirmation              | Delete 
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="info_ios.png" width="250" height="500">  |  <img src="confirm_ios.png" width="250" height="500"> |  <img src="delete_ios.png" width="250" height="500">
+![information](info_ios.png)  |  ![confirmation](confirm_ios.png) |  ![dialog](delete_ios.png)
 
